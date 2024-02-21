@@ -1,6 +1,9 @@
 # TOC
 At the beginning I was planning to put here only official firmwares found somewhere in update files and internet but now, with help from people involved in process of reverse enginnering of uvk5 you can find here some knowledge and findings regarding our very wallet friendly yet so capable radio. Here is table of contents of this repository.
 
+更改为EVA 初号机 NERV logo  其他没动
+
+
 ## Build your own firmware - [/uvmod_kitchen](/uvmod_kitchen)
 You can select what you want to include in your modded firmware. If you want unlock all frequencies but also have custom frequency steps? This is section for you. Thanks to this tool you can mix and match different mods to be included in final firmware. All mods are basing on firmware version k5_2.01.26.
 
